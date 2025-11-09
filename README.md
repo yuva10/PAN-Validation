@@ -68,12 +68,12 @@ Example of valid PAN: **AHGVE1276F**
 
 ## ✅ Project Files
 
-- `notebooks/PAN_Validation_PySpark.ipynb`
-- `data/PAN_Number_Validation_Dataset.xlsx`
+- `PAN_Validation_PySpark.ipynb`
+- `PAN_Number_Validation_Dataset.xlsx`
 - Summary report output (CSV/Delta)
 
 ---
 
 ## ✅ Author
-**Yuva Kumar**
+**Konda Yuva Kumar**
 
